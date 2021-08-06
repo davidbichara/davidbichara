@@ -7,6 +7,7 @@ Welcome to my GitHub page, where I document some of the projects I've worked on.
 - 😄 Pronouns: he/him
 - 📚 I am focusing on deepening my understanding of Software Design.
 - 👯 I’m looking to collaborate on cool projects to help me learn.
+- 🧰 I have experience in the following Languages: Java, Python, JavaScript, C, SQL, Bash, HTML, CSS, XML, and MATLAB, as well as many more Tools & Technologies!
 - :vibration_mode: Download my Andriod game, the [Square Play App](https://play.google.com/store/apps/details?id=squareplay.com&hl=en_US&gl=US).
 - 🌐 Visit my [Developer Website](https://www.davidbichara.dev/).
 - 📫 Contact me at davidbic@udel.edu
