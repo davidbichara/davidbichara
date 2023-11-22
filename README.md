@@ -4,9 +4,9 @@ My name is David Bichara!
 
 Welcome to my GitHub page, where I document some of the projects I've worked on.
 
-- 😄 Pronouns: he/him
 - 📚 I am focusing on deepening my understanding of Software Design Patterns.
-- 👯 I just launched the MVP of my startup CompSciLib, which I co-founded (https://www.compscilib.com/). 
+- 👯 I serve as the CTO of CompSciLib (https://www.compscilib.com/).
+- Machine Learning Researcher, founder of PatientHelpAI (https://www.patienthelp.ai/).
 - 🧰 I have experience in the following Languages: Java, Python, C, C++, SQL, JavaScript, TypeScript, Bash, HTML, CSS, XML, MATLAB, as well as many more Tools & Technologies!
 - :vibration_mode: Download my Andriod game, the [Square Play App](https://play.google.com/store/apps/details?id=squareplay.com&hl=en_US&gl=US).
 - 🌐 Visit my [Developer Website](https://www.davidbichara.dev/).
